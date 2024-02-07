@@ -5,6 +5,8 @@
  * tags:
  *   - name: OS Info
  *     description: Operations about operating system information
+ *   - name : Exchange Rate
+ *     description: Fetch exchange rate for given currency pair
  */
 
 /**
